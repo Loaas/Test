@@ -1,3 +1,5 @@
-msg = "Hello World!"
+msg1 = "Hello World!"
+msg2 = "Für neuen Branch in Git..."
 
-print(msg)
+print(msg1)
+print(msg2)
